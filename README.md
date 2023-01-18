@@ -3,7 +3,9 @@
 ## Bahan
 
 [Termux](https://f-droid.org/repo/com.termux_118.apk)
+
 [Code Editor](https://play.google.com/store/apps/details?id=com.rhmsoft.code&hl=id&gl=US)
+
 [Referensi](https://github.com/vsec7/DiscordSelfbot)
 
 ## Tutorial
